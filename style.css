@@ -1,0 +1,72 @@
+.body{
+	margin: 0px;
+	padding: 0px;
+	background: url("Pixel-Cover.webp");
+	background-size: cover;
+}
+.main{
+	width: 1000px;
+	margin: auto;
+	border: 1px solid red;
+	border-bottom: 10px solid blue;
+}
+.row1{
+	width: 1000px;
+	height: 650px;
+	background: url("chrome_2019_07_08_14_17_05.jpg") fixed;
+	background-size: cover;
+}
+.row1trans{
+	width: 1000px;
+	height: 650px;
+	background: rgba(0,0,0,0.3); 
+}
+.row1logo{
+	text-align: center;
+	padding-top	: 20px;
+	padding-bottom: 20px;
+}
+.row1tagline{
+	width: 400px;
+	text-align: center;
+	border-top: 1px solid blue;
+	border-bottom: 1px solid blue;
+	margin-top: 50px;
+	margin: auto;
+	font-size: 35px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.menu{
+	color: white;
+	margin: auto;
+	width: 700px;
+	margin-top: 50px;
+}
+.clear{
+	clear: both;
+}
+.menuitems{
+	padding:  35px;
+	padding-right: 20px;
+	padding-left: 30px;
+	float: left;
+	border-right: 10px solid white;
+
+}
+.row2{
+	width: 1000px;
+	height: 850px;
+	background: url("Team_Rocket_Meowth_Gigantamax.webp") fixed;
+	background-size:cover ;
+}
+.heading{
+	width: 1000px;
+	height: 300px;
+	background: rgba(0,0,0,0.3);
+}
+.content{
+	width: 1000px;
+	height: 550px;
+	background-color: salmon ;
+}
